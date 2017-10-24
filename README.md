@@ -26,8 +26,8 @@ The animation background may be set to a given color or be made transparent.
 ```
 
 Parameters:
-1. array of images
-2. array of delays
-3. animation loop, use 0 is for ever, (1, 2, 3, 4, ...) integer for how many times repeat the animation
-5. transparent color declaration as RGB color
-6. source
+* 1 array of images
+* 2 array of delays
+* 3 animation loop, use 0 is for ever, (1, 2, 3, 4, ...) integer for how many times repeat the animation
+* 5 transparent color declaration as RGB color
+* 6 source
